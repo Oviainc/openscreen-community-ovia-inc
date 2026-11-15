@@ -1,4 +1,37 @@
 <p align="center">
+ <a href="https://github.com/getopenscreen/openscreen">
+	  <img src="https://raw.githubusercontent.com/getopenscreen/openscreen/main/public/openscreen.png" width="200" alt="Ovia Inc — OpenScreen logo">
+ </a>
+</p>
+
+# OpenScreen — Ovia Inc
+
+> Ovia Inc holds this fork of OpenScreen as part of the OVIA collection, where screen recording and demo-making support the work we show and ship.
+
+## What this project is
+
+OpenScreen is a free, open-source desktop app for recording your screen and turning the result into polished product demos and walkthroughs. It records a specific window or the whole screen, with microphone and system audio, webcam overlay, automatic captions transcribed on-device, and an AI editing assistant that applies edits to the timeline from a chat description. It exports to MP4 or GIF, rendered and encoded on the GPU, on Windows, macOS, and Linux. It also ships a command-line interface for headless recording, so scripts, CI, and AI coding agents can record the screen and render demos without a window.
+
+## Why this project sits in the OVIA collection
+
+Our agent work needs to be shown, not just described — a demo video is often the fastest way to explain what a feature does. OpenScreen sits in the collection as the virtual production tool: it records the screen, edits the take with AI assistance, and exports polished demos ready to post. It also fits the AI agent work directly, since its CLI and demo skill let an agent record and ship a video of a change alongside the code.
+
+## Story
+
+OpenScreen was selected from our standing shortlist and approved on November 15, 2026. This fork is the community continuation of the archived openscreen project already held as openscreen-oviainc, and is for evaluating the successor. The original project was created by Siddharth Vaddem and archived after v1.5.0; development moved to the community repository with his approval, under the same name and the same MIT license. We hold this fork so the OVIA collection has a stable place to evaluate the community continuation alongside the archived original.
+
+## OVIA modifications
+
+This repository is a fork of [getopenscreen/openscreen](https://github.com/getopenscreen/openscreen).
+
+Our modifications are limited to this README section and repository metadata unless stated otherwise. The code is unchanged from the fork point.
+
+Credit remains with the upstream authors, and the licence is preserved: MIT License.
+
+This fork was created on November 15, 2026.
+
+---
+<p align="center">
   <img src="public/openscreen.png" alt="OpenScreen Logo" width="64" />
 </p>
 
